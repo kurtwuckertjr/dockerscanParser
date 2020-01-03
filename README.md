@@ -1,4 +1,4 @@
-dockerscanParser (https://govanguard.io)
+dockerscanParser (https://govanguard.com)
 ==
 
 [![Build Status](https://travis-ci.com/GoVanguard/dockerscanParser.svg?branch=master)](https://travis-ci.com/GoVanguard/dockerscanParser)
